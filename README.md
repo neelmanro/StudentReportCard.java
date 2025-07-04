@@ -43,5 +43,5 @@ A simple Java-based **student report card** application that models students, th
 2. Open Terminal or Command Prompt in that folder.
 3. Compile all Java files:
 
-javac StudentRctester.java
+javac StudentRctester.java /n
 java StudentRctester
